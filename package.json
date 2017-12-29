@@ -52,6 +52,6 @@
   "dependencies": {
     "jsqr": "https://github.com/cozmo/jsQR.git",
     "prop-types": "^15.5.8",
-    "webrtc-adapter": "git+https://github.com/opapirnyk/adapter.git#chrome_crash_fix"
+    "webrtc-adapter": "git+https://github.com/opapirnyk/adapter.git#aidtech_adapted"
   }
 }
